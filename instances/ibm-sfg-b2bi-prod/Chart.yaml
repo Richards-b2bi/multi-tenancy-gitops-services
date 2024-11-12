@@ -35,7 +35,7 @@ keywords:
 - Automation
 - RHOCP
 - Other
-kubeVersion: '>=1.26'
+kubeVersion: '>=1.27'
 maintainers:
 - name: IBM
 name: ibm-b2bi-prod
